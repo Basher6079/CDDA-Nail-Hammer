@@ -1,5 +1,5 @@
 # CDDA-Nail-Hammer
-A modified sledge hammer the can fire nails.
+A modified sledge hammer that can fire nails.
 
 Modeled after https://www.youtube.com/watch?v=Lti_zl3MnT4
 
