@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "basher_nail_hammer",
+    "name": "Nail Hammer",
+    "authors": [ "Basher" ],
+    "maintainers": [ "Basher" ],
+    "description": "Adds a nail hammer that can fire nails on impact.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]

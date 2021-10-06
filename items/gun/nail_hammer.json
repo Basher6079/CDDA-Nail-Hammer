@@ -1,0 +1,39 @@
+[
+  {
+    "type": "GUN",
+    "id": "nail_hammer",
+    "name": { "str": "nail hammer" },
+    "description": "A sledge hammer modified to fire nails on impact. (f)ire to use in melee range.",
+    "weight": "4500 g",
+    "color": "brown",
+    "symbol": "/",
+    "material": [ "wood", "steel" ],
+    "looks_like": "hammer_sledge",
+    "flags": [
+      "ALWAYS_TWOHAND",
+      "NONCONDUCTIVE",
+      "WATER_FRIENDLY",
+      "WATERPROOF_GUN",
+      "NEVER_JAMS"
+    ],
+    "techniques": [ "WBLOCK_1", "BRUTAL", "WIDE", "SWEEP" ],
+    "volume": "1250 ml",
+    "longest_side": "90 cm",
+    "bashing": 50,
+    "to_hit": 1,
+    "skill": "bashing",
+    "reload_noise_volume": 4,
+    "loudness": 200,
+    "durability": 4,
+    "ranged_damage": { "damage_type": "stab", "amount": 20 },
+    "range": 1,
+    "dispersion": 0,
+    "recoil": 200,
+    "clip_size": 1,
+    "reload": 500,
+    "price": 12000,
+    "price_postapoc": 500,
+    "ammo": [ "naildart" ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "naildart": 1 } } ]
+  }
+]

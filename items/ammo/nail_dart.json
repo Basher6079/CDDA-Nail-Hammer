@@ -1,0 +1,21 @@
+[
+  {
+    "type": "AMMO",
+    "id": "naildart",
+    "name": { "str": "nail dart" },
+    "description": "A nail attached to a blank for use with the nail hammer.",
+    "weight": "1 g",
+    "volume": "50 ml",
+    "price": 100,
+    "price_postapoc": 25,
+    "material": [ "iron" ],
+    "looks_like": "nail",
+    "symbol": "=",
+    "color": "cyan",
+    "count": 10,
+    "stack_size": 10,
+    "ammo_type": "naildart",
+    "damage": { "damage_type": "bullet", "amount": 60, "armor_penetration": 50 },
+    "dispersion": 0
+  }
+]

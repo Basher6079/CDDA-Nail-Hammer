@@ -1,0 +1,8 @@
+[
+  {
+    "type": "ammunition_type",
+    "id": "naildart",
+    "name": "nail dart",
+    "default": "naildart"
+  }
+]

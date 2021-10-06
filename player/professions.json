@@ -1,0 +1,28 @@
+[
+  {
+    "type": "profession",
+    "id": "tester_nh",
+    "name": "Test Subject",
+    "description": "Test profession for the Nail Hammer.",
+    "points": 0,
+    "items": {
+      "both": {
+        "items": [
+          "socks",
+          "boots",
+          "gloves_fingerless",
+          "knee_pads",
+          "jumpsuit",
+          "backpack",
+          "wristwatch"
+        ],
+        "entries": [
+          { "item": "nail_hammer", "ammo-item": "naildart", "charges": 1 },
+          { "item": "naildart", "charges": 50 }
+        ]
+      },
+      "male": [ "boxer_shorts" ],
+      "female": [ "boy_shorts", "sports_bra" ]
+    }
+  }
+]
