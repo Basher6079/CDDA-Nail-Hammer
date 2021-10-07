@@ -11,3 +11,7 @@ Suggested by u/k1llerk1ng
 Now has three different ammo types: .50cal, .308cal, and 7.62mm.
 
 These are high damage high AP, medium damage low AP, and low damage medium AP, respectively.
+
+For better balance, the hammer itself imparts 50 damage, 10 AP and nails impart the damage of the orignal round.
+
+These rounds are loud, so make sure you have hearing protection!
