@@ -17,8 +17,8 @@
           "wristwatch"
         ],
         "entries": [
-          { "item": "nail_hammer", "ammo-item": "naildart", "charges": 1 },
-          { "item": "naildart", "charges": 50 }
+          { "item": "nail_hammer", "ammo-item": "naildart50", "charges": 1 },
+          { "item": "naildart50", "charges": 50 }
         ]
       },
       "male": [ "boxer_shorts" ],
